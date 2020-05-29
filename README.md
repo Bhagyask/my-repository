@@ -1,2 +1,2 @@
 # my-repository
-MY REPOSITORY
+MY REPOSITORY.
